@@ -1,7 +1,6 @@
 let watch = document.getElementById("watch")
 
 function insert(num) {
-    keyboard(e)
     var n1 = watch.innerHTML
     watch.innerHTML = n1 + num
 
